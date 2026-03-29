@@ -1,0 +1,17 @@
+
+<svg width="53px" height="44px" viewBox="0 0 53 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-597.000000, -3831.000000)">
+            <g id="Group-2-Copy" transform="translate(498.000000, 3831.000000)">
+                <g id="Group-4" transform="translate(99.425597, 0.000000)">
+                    <polygon id="Path-2" fill="#D8D8D8" points="-1.13686838e-13 0 13.2785079 44 52.5744029 44 52.5744029 0"></polygon>
+                    <g id="Group-3" transform="translate(24.574403, 7.000000)" fill="#000000">
+                        <polygon id="Path-3" points="5.59552404e-14 9.87054157 5.59552404e-14 20.2838593 4.36333645 29.1398247 6.95966759 29.1398247 2.62179223 20.2838593 2.62179223 9.87054157"></polygon>
+                        <polygon id="Path-3-Copy" transform="translate(7.765548, 9.634642) rotate(-180.000000) translate(-7.765548, -9.634642) " points="4.28571429 -1.59872116e-14 4.28571429 10.4133178 8.64905074 19.2692832 11.2453819 19.2692832 6.90750651 10.4133178 6.90750651 -1.59872116e-14"></polygon>
+                        <path d="M4.33787536,9.70588235 L4.33787536,8.8559654 L1.77635684e-15,-3.55271368e-15 L2.59633114,-3.55271368e-15 L6.95966759,8.8559654 L6.95966759,19.2692832 L6.90750651,19.2692832 L6.90750651,20.1192001 L11.2453819,28.9751655 L8.64905074,28.9751655 L4.28571429,20.1192001 L4.28571429,9.70588235 L4.33787536,9.70588235 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
