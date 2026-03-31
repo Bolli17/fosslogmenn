@@ -47,9 +47,6 @@ export default function Contact() {
             />
           </div>
         </div>
-        <div className="contact-address">
-          Langholtsvegi 111, 104 Reykjavik
-        </div>
       </div>
     </section>
   );
