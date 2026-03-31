@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="footer-top">
           <div className="footer-contact-col">
             <div className="footer-contact-row">
-              <span className="footer-label">{lang === "is" ? "Simi:" : "Phone:"}</span>
+              <span className="footer-label">{lang === "is" ? "Sími:" : "Phone:"}</span>
               <span className="footer-value">+354 537 5111</span>
             </div>
             <div className="footer-contact-row">
@@ -27,9 +27,9 @@ export default function Footer() {
           </div>
 
           <div className="footer-info-col">
-            <h4>{lang === "is" ? "Upplysingar:" : "Information:"}</h4>
-            <p className="footer-brand-name">Foss logmenn | fjarmal</p>
-            <p>Langholtsvegi 111, 2. haed, 104 Reykjavik |</p>
+            <h4>{lang === "is" ? "Upplýsingar:" : "Information:"}</h4>
+            <p className="footer-brand-name">Foss lögmenn | fjármál</p>
+            <p>Langholtsvegi 111, 2. hæð, 104 Reykjavík |</p>
           </div>
 
           <div className="footer-logo-col">
@@ -40,7 +40,7 @@ export default function Footer() {
         </div>
 
         <p className="footer-copy">
-          &copy; {new Date().getFullYear()} Foss logmenn | fjarmal. {t.footer.rights}
+          &copy; {new Date().getFullYear()} Foss lögmenn | fjármál. {t.footer.rights}
         </p>
       </div>
     </footer>

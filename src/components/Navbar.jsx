@@ -19,10 +19,10 @@ export default function Navbar() {
   }, []);
 
   const navLinks = [
-    { href: "#sersvid", label: lang === "is" ? "Sersvi\u00F0" : "Services" },
+    { href: "#sersvid", label: lang === "is" ? "Sérsviðu" : "Services" },
     {
       href: "#starfsfolk",
-      label: lang === "is" ? "Starfsfolk" : "Staff",
+      label: lang === "is" ? "Starfsfólk" : "Staff",
     },
     {
       href: "#contact",
@@ -73,7 +73,7 @@ export default function Navbar() {
             </a>
           ))}
           <button className="navbar-link lang-btn" onClick={() => { toggleLang(); setOpen(false); }}>
-            {lang === "is" ? "English" : "Islenska"}
+            {lang === "is" ? "English" : "Íslenska"}
           </button>
         </div>
 
